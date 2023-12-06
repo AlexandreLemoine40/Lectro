@@ -1,10 +1,10 @@
-# Nom du Projet
+# Lectro
 
-## Analyseur de Code JavaScript en TypeScript
+## JavaScript syntax and context analyzer, written in TypeScript
 
 ![Logo du Projet](https://github.com/AlexandreLemoine40/Lectro/blob/master/lectro.png?raw=true)
 
-Description brève du projet et de son objectif.
+Lectro is currently a JavaScript syntax and context analyze in work in progress, written in TypeScript for entertainment and to discover a new technology on my own.
 
 ## Table des Matières
 
@@ -44,9 +44,10 @@ Expliquez les options de configuration disponibles pour personnaliser le comport
 }
 ```
 
-## Contribuer
+## Contributing
 
-Montrez aux contributeurs comment ils peuvent participer au projet. Incluez des informations sur la façon de signaler des bogues, de soumettre des demandes d'extraction et de participer à la discussion de la communauté.
+As I am not experimented in compilers development any advice or contribution is welcome !
+In order to, you can contact me or perform a pull request.
 
 ### Guide de Contribution
 
@@ -55,7 +56,5 @@ Montrez aux contributeurs comment ils peuvent participer au projet. Incluez des 
 3. [Code de Conduite](CODE\_OF\_CONDUCT.md)
 
 ## Licence
-
-Indiquez la licence sous laquelle le projet est distribué.
 
 Ce projet est sous licence [MIT](LICENSE).
