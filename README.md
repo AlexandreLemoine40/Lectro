@@ -2,7 +2,7 @@
 
 ## Analyseur de Code JavaScript en TypeScript
 
-![Logo du Projet](lien\_vers\_logo.png)
+![Logo du Projet](https://github.com/AlexandreLemoine40/Lectro/blob/master/lectro.png?raw=true)
 
 Description brève du projet et de son objectif.
 
